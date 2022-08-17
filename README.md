@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development, Cybersecurity and other programming languages
 
 - 📫 How to reach me **siulk11@gmail.com**
 
