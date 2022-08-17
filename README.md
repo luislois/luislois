@@ -8,8 +8,8 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=luislois-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="left"> <h3>Profile Views :-  <img src="https://komarev.com/ghpvc/?username=luislois-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Luis Lois" /> </h3> 
   </p>
 
 <br>
