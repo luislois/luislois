@@ -1,9 +1,9 @@
-<h1 align="center">Hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>, I'm Luis Lois</h1>
+<h1 align="center">Hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Luis Lois</h1>
 <h3 align="center">A passionate self-taught developer.</h3>
 
 <h3 align="center">Visit my Website Here.</h3>
 <h4 align="center">link to my website (currently working on it)</h4>
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=luislois-pw&label=Profile%20views&color=0e75b6&style=flat"
