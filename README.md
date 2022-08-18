@@ -41,10 +41,10 @@
 <br>
 <h3 align="left">Follow me on:</h3>
 <p align="left"> 
-  <a href="https://instagram.com/luislois_11" target="blank"><img align="center"
+  <a href="https://instagram.com/luislois_11" target="blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Luis Lois" height="30" width="40" /></a> 
- <a href="https://twitter.com/luislois_11" target="blank"><img align="center"
+ <a href="https://twitter.com/luislois_11" target="blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Luis Lois" height="30" width="40" /></a> 
 </p>
@@ -53,4 +53,4 @@
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href='https://ko-fi.com/A0A3EGKCP' target="_blank"><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/A0A3EGKCP' target="_blank" rel="noreferrer"><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
