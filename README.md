@@ -39,6 +39,17 @@
       width="40" height="40" /> </a> </p>
 
 <br>
+
+<h2 align='left'><i>Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=luislois&theme=react-dark" width="100%">
+</a>
+ <h3 align="center">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=luislois&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
+</h3>
+
+<br>
 <h3 align="left">Follow me on:</h3>
 <p align="left"> 
   <a href="https://instagram.com/luislois_11" target="blank" rel="noopener noreferrer"><img align="center"
