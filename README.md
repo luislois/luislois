@@ -1,5 +1,5 @@
 <h1 align="center">Hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Luis Lois</h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=525&lines=A+passionate+self-taught+software+developer" alt="Typing SVG" </p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=525&lines=A+passionate+software+developer" alt="Typing SVG" </p>
 	
 <p align="center"><img src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" alt="Luis Lois" /></p>
 
