@@ -80,7 +80,8 @@
 
 <p align="center">
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
+</p>
+<p align="center">
 <a href='https://ko-fi.com/A0A3EGKCP' target="_blank" rel="noopener noreferrer"><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 <h2 align="center">📌 Pinned Repositories</h2>
