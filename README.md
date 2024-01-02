@@ -9,7 +9,7 @@
 </p>
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/codercat.jpg' width='25%'>  
+<img align='right' src='Assets/codercat.png' width='25%'>  
 
 {  
 
