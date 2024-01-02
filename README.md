@@ -66,10 +66,8 @@
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
-
-<br/>
-<h3 align="left">Follow me on:</h3>
-<p align="left"> 
+<h2 align="center">📱 My Socials</h2>
+<p align="center"> 
   <a href="https://instagram.com/luislois_11" target="blank" rel="noopener noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Luis Lois" height="30" width="40" /></a> 
