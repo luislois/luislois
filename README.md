@@ -68,16 +68,6 @@
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
-<h2 align="center">📱 My Socials</h2>
-<p align="center"> 
-  <a href="https://instagram.com/luislois_11" target="blank" rel="noopener noreferrer"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Luis Lois" height="30" width="40" /></a> 
- <a href="https://twitter.com/luislois_11" target="blank" rel="noopener noreferrer"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Luis Lois" height="30" width="40" /></a> 
-</p>
-
 <br/>
 
 <p align="center">
