@@ -32,6 +32,7 @@
 
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
+<p align="center">In progress.</p>
 
 <h2 align="center">🌱 My Skills</h2>
 
